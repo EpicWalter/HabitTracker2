@@ -60,6 +60,9 @@ Pressing "Enter" forwards you to the main menu
 </video>
 
 
+
+![Sehen Sie sich das Video an](https://raw.githubusercontent.com/EpicWalter/HabitTracker/main/images/main_menu.png)](https://raw.githubusercontent.com/EpicWalter/HabitTracker/main/images/add and increment.mov)
+
 ### 2. Analyse habits
 
 
