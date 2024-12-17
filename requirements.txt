@@ -1,0 +1,3 @@
+pytest
+questionary
+#main file needs to be configured to emulate terminal in output console
