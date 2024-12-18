@@ -58,7 +58,7 @@ def cli():
                         choices=["Daily", "Weekly"]
                     ).ask()
 
-                    try: #try/catch block to not expose unexpected error messages to the user
+                    try: #try/catch block to not expose raw error messages to the user
                         habit = Habit(name, desc, period)
                         if habit.add(db):
                             print(f"Habit '{name}' created successfully.")

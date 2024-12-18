@@ -51,19 +51,13 @@ Pressing "Enter" forwards you to the main menu
 
 ### 1. Add and increment habit
 
-![example workflow video](images/add%20and%20increment.mov)
-
-
-<video width="600" controls>
-  <source src="images/add%20and%20increment.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
-
 
 ### 2. Analyse habits
 
+### 3. Delete habits
 
-### 3. Exit
+
+### 4. Exit
 Select "Exit" to exit the application.
 
 

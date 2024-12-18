@@ -59,7 +59,7 @@ def calculate_longest_streak(db, habit_name):
     cur = db.cursor()
     cur.execute("SELECT MAX(streak) FROM increments WHERE habitName = ?", (habit_name,))
     result = cur.fetchone()
-    return result[0] if result else 0 #unify implementation style with the other functions!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    return result[0] if result else 0
 
 
 
