@@ -52,12 +52,15 @@ Pressing "Enter" forwards you to the main menu
 ### 1. Add and increment habit
 
 
+
+https://github.com/user-attachments/assets/7fab09d1-84e3-463f-b75f-68643825732f
+
+
+
 ### 2. Analyse habits
 
-### 3. Delete habits
 
-
-### 4. Exit
+### 3. Exit
 Select "Exit" to exit the application.
 
 
