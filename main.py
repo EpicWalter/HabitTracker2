@@ -16,7 +16,7 @@ def cli():
 
     print("*** Welcome to the Habit Tracker CLI! ***")
     print("** Here you can manage, track and analyze your current habits. **")
-    #questionary.text("Press Enter to proceed to the main menu... ").ask()
+    questionary.text("Press Enter to proceed to the main menu... ").ask()
 
     while True:
         main_choice = questionary.select(
