@@ -50,18 +50,15 @@ Pressing "Enter" forwards you to the main menu
 ### Example Workflows
 
 ### 1. Add and increment habit
-
-
-https://github.com/user-attachments/assets/7fab09d1-84e3-463f-b75f-68643825732f
+https://github.com/user-attachments/assets/628c1c32-2f71-496e-b809-6486b6e0f656
 
 
 ### 2. Analyse habits
-
+https://github.com/user-attachments/assets/5af96f7b-3c9b-41cd-86e5-5c9bcd08cbb1
 
 
 ### 3. Delete
-
-
+https://github.com/user-attachments/assets/ffecc350-5431-442b-b617-d0339b83cecf
 
 
 
