@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+*
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# Distribution/build directories
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Temporary files and cache
+*.temp
+*.cache
+
+
+# Environment variables
+.env
